@@ -14,13 +14,12 @@
  * Database: MongoDB 
 * Deployment: Render
 
-Features
-⦿ Product Management: Effortlessly create, read, update, and delete products.
+  
+  
+<h2>Features:</h2>
 
-⦿ API Integration: Build robust RESTful APIs for managing product data.
-
-⦿ Responsive UI: User-friendly interface with React.js and Chakra UI for a clean, modern look.
-
-⦿ Error Handling: Comprehensive error handling to ensure a smooth user experience.
-
-⦿ Deployment: Deployed seamlessly on Render for real-time use.
+*  Product Management: Effortlessly create read update and delete products. 
+*  API Integration: Build robust RESTful APIs for managing product data. 
+* Responsive UI: User-friendly interface with React.js and Chakra UI for a clean modern look.
+* Error Handling: Comprehensive error handling to ensure a smooth user experience. 
+* Deployment: Deployed seamlessly on Render for real-time use.
