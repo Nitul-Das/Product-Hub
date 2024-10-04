@@ -1,4 +1,4 @@
-<h1>ProjectHub</h1>
+<h1>ProductHub</h1>
 
 ![ProductHub](https://github.com/user-attachments/assets/3539fd52-2bf7-49e1-8002-95f207d83b43)
 
