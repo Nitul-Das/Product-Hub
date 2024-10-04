@@ -1,6 +1,6 @@
 <h1 align="center" id="title">ProjectHub</h1>
 
-<p align="center"><img src="![ProductHub](https://github.com/user-attachments/assets/3539fd52-2bf7-49e1-8002-95f207d83b43)"></p>
+![ProductHub](https://github.com/user-attachments/assets/3539fd52-2bf7-49e1-8002-95f207d83b43)>
 
 <p id="description">Welcome to Product Hub! This MERN stack application allows users to efficiently manage their products using CRUD operations for a seamless experience.</p>
 
