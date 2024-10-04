@@ -1,4 +1,5 @@
 Product Hub
+![ProductHub](https://github.com/user-attachments/assets/3539fd52-2bf7-49e1-8002-95f207d83b43)
 
 Welcome to Product Hub! This MERN stack application allows users to efficiently manage their products using CRUD operations for a seamless experience.
 
