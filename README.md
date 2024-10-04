@@ -1,7 +1,8 @@
-Product Hub
+Project Hub
 
 Welcome to Product Hub! This application allows users to efficiently manage their products using CRUD operations.
 Built with the MERN stack, it provides a seamless experience for creating, reading, updating, and deleting products.
+
 
 Tech Stack:
 Frontend: React.js, Chakra UI
@@ -15,10 +16,4 @@ Responsive UI: Enjoy a user-friendly interface designed with React.js and Chakra
 Error Handling: Implement comprehensive error handling for a smooth user experience.
 Deployment: Render.
 
-![Awesome ReadME](https://github.com/pottekkat/awesome-readme/raw/master/header.png)
-
-# Project Hub
-
-Welcome to Product Hub! This application allows users to efficiently manage their products using CRUD operations.
-Built with the MERN stack, it provides a seamless experience for creating, reading, updating, and deleting products.
 
