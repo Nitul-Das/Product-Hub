@@ -1,6 +1,7 @@
 import {Button,Container, Flex, Text, HStack,useColorMode} from "@chakra-ui/react";
 import { Link } from "react-router-dom";
 import { PlusSquareIcon } from "@chakra-ui/icons";
+import { FaArrowLeftLong } from "react-icons/fa6";
 import { IoMoon } from "react-icons/io5";
 import { LuSun } from "react-icons/lu";
 
@@ -29,6 +30,9 @@ const Navbar = () => {
 					<Link to={"/"}>Product Hub 🛒</Link>
 				</Text>
         <HStack spacing={2} alignItems={"center"}>
+		                        <Link to={"/"}>
+						 <Button>< FaArrowLeftLong fontSize={20}/></Button> {/* taken from react icon */}
+					</Link>
 					<Link to={"/create"}>
 						 <Button>< PlusSquareIcon fontSize={20}/></Button> {/* taken from react icon */}
 					</Link>
